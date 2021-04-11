@@ -3,5 +3,5 @@ pandas
 numpy
 seaborn 
 matplotlib
-PIL
+Pillow
 sklearn
