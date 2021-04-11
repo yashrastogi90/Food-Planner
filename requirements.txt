@@ -1,7 +1,6 @@
 psutil
 pandas
 numpy
-subprocess
 seaborn 
 matplotlib
 PIL
